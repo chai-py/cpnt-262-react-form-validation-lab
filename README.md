@@ -54,5 +54,4 @@ A fully functional registration form with the following features:
 
 - Submit the project code via a GitHub repository.
 - Not compulsory - Deploy the react/nextjs app using vercel.
-# cpnt-262-react-form-validation-lab
-# cpnt-262-react-form-validation-lab
+
